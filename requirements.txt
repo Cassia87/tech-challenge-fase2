@@ -1,0 +1,5 @@
+# Bibliotecas
+pandas
+matplotlib
+seaborn
+scikit-learn
